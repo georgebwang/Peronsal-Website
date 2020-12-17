@@ -19,7 +19,7 @@ links:
 
 location: Zoom (Online Presentation)
 projects:
-- internal-project
+- ETC3460
 publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: ETC3460 S1 2020

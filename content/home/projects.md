@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Finance
     tag: Finance
+  - name: Econometrics
+    tag: Econometrics
   - name: Chemical Engineering
     tag: ChemEng
 

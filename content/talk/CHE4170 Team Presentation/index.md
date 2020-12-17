@@ -19,7 +19,7 @@ links:
 
 location: Zoom (Online Presentation)
 projects:
-- internal-project
+- CHE4170
 publishDate: "2017-01-01T00:00:00Z"
 slides:
 summary: CHE4170 S2 2020

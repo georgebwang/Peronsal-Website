@@ -9,14 +9,17 @@ slides:
 summary: 
 tags:
 - ChemEng
+- R
+- Machine Learning
 title: Chemical Engineering FYP - Ultrasound Image Auto-Segmentation
-url_code: "https://github.com/georgewang229/CHE4180-Project"
+url_code: "https://github.com/georgebwang/CHE4180-Project"
 url_pdf: ""
 url_slides: "ProjectPresentation.pdf"
 url_video: ""
 ---
 
 Chemical Engineering final year research project co-authored with Mark Zhao and supervised by Dr.Simon Corrie from the Department of Chemical Engineering, Monash University. 
+
 
 The project involved implementing automatic image segmentation on laboratory ultrasound images using machine learning mechanisms via the Trainable Weka Segmentation module in the open-source image analysis software `ImageJ`, and consequently evaluating its classification accuracy making use of performance metrics via the R programming language. 
 

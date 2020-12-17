@@ -7,9 +7,9 @@ widget: tag_cloud
 headless: true
 
 # Order that this section appears on the page.
-weight: 120
+weight: 55
 
-title: Popular Topics
+title: Popular Tags
 subtitle: ''
 
 content:
@@ -19,6 +19,6 @@ content:
   count: 20
 design:
   # Minimum and maximum font sizes (1.0 = 100%).
-  font_size_min: 0.7
-  font_size_max: 2.0
+  font_size_min: 1.0
+  font_size_max: 1.0
 ---
