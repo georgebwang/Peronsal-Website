@@ -34,4 +34,6 @@ title: George Baihan Wang
 
 `Welcome :smiley:!` I'm George and I'm currently a graduate research student in the Department of Banking and Finance, Monash University. I completed my Bachelor's double degrees in Chemical Engineering (Honours) and Commerce (major in Finance and minor in Econometrics) at Monash, and I am now fortunate to be one of the six banking & finance high achievers admitted to the new research-oriented *Master of Commerce (M.Com)* program offered by the Monash Business School Department of Banking and Finance, with full graduate research scholarship. My proposed research direction lies in the field of empirical asset pricing, with particular interests in financial econometrics (volatility modelling).
 
+Please feel free to take a *<span style="color:orange">random walk</span>* on my website as you wish! :smirk:
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/GeorgeWang_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
