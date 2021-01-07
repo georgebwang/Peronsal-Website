@@ -32,7 +32,7 @@ feature:
 - description:
   icon: linux
   icon_pack: fab
-  name: Linux (Mint)
+  name: Linux(Pop!_OS)
 
 - description:
   icon: latex
