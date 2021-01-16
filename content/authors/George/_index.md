@@ -1,14 +1,14 @@
 ---
-bio: MCom(Finance Research) Monash 2022 | BChE(Hons) & BCom(Finance, Econometrics) Monash 2020
+bio: MCom (in progress), Monash | BChemEng(Hons)/BCom(Finance & Econometrics) , Monash 
 education:
   courses:
   - course: MCom
     institution: Monash University
     year: 2022
-  - course: BChE(Hons) & BCom
+  - course: BChemEng(Hons)/BCom
     institution: Monash University
     year: 2020
-    WAM: 83.87 (H1 First Class Honours) 
+    
 email: "george.baihan.wang@gmail.com"
 highlight_name: true
 interests:
@@ -18,7 +18,7 @@ interests:
 organizations:
 - name: Monash University
   url: https://www.monash.edu/business/banking-and-finance
-role: MCom Candidate - Graduate Research in Finance 
+role: MCom Candidate - Graduate Research in Finance at Monash Uni
 social:
 - icon: envelope
   icon_pack: fas
@@ -33,8 +33,8 @@ superuser: true
 title: George Baihan Wang
 ---
 
-`Welcome:smiley:!` I'm George and I'm currently a graduate research student in the Department of Banking and Finance, Monash University. I completed my Bachelor's double degrees in Chemical Engineering (Honours) and Commerce (major in Finance and minor in Econometrics) at Monash, and I am now fortunate to be one of the six banking & finance high achievers admitted to the new research-oriented *Master of Commerce (MCom)* program offered by the Monash Business School Department of Banking and Finance, with full graduate research scholarship. My proposed research direction broadly lies in the field of empirical asset pricing.
+`Welcome:smiley:!` I'm George and I'm currently a graduate research student in the Department of Banking and Finance, Monash University. I completed my Bachelor's double degrees in Chemical Engineering (Honours) and Commerce (major in Finance and minor in Econometrics) at Monash, and I am now fortunate to be one of the six banking & finance high achievers admitted to the new research-oriented Master of Commerce (MCom) program offered by the Monash Business School Department of Banking and Finance, with full graduate research scholarship. My proposed research direction broadly lies in the field of empirical asset pricing.
 
-Please feel free to take a *<span style="color:orange">random walk</span>* on my website as you wish! :smirk:
+Please feel free to take a *random walk* on my website as you wish! :smirk:
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/GeorgeWang_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
