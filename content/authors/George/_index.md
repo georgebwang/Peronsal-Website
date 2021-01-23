@@ -33,7 +33,7 @@ superuser: true
 title: George Baihan Wang
 ---
 
-`Welcome:smiley:!` I'm George and I'm currently a graduate research student in the Department of Banking and Finance, Monash University. I completed my Bachelor's double degrees in Chemical Engineering (Honours) and Commerce (major in Finance and minor in Econometrics) at Monash, and I am now fortunate to be one of the six banking & finance high achievers admitted to the new research-oriented Master of Commerce (MCom) program offered by the Monash Business School Department of Banking and Finance, with full graduate research scholarship. My proposed research direction broadly lies in the field of empirical asset pricing.
+`Welcome:smiley:!` I'm George and I'm currently a graduate research student in the Department of Banking and Finance, Monash University. I completed my Bachelor's double degrees in Chemical Engineering (Honours) and Commerce (major in Finance and minor in Econometrics) at Monash. I'm now undertaking the new research-oriented Master of Commerce (MCom) program with full graduate research scholarship. My proposed research direction broadly lies in the field of empirical asset pricing.
 
 Please feel free to take a *random walk* on my website as you wish! :smirk:
 
