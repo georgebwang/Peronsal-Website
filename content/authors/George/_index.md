@@ -36,4 +36,4 @@ title: George Baihan Wang
 
 Please feel free to take a *random walk* on my website as you wish! :smirk:
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/GeorgeWang_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/GeorgeWang-CV.pdf" "newtab" >}}CV{{< /staticref >}}.
