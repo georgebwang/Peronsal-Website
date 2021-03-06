@@ -1,5 +1,5 @@
 ---
-bio: MCom (in progress), Monash | BChemEng(Hons)/BCom(Finance&Econometrics) , Monash 
+bio: MCom (in progress), Monash | BChemEng(Hons), BCom, Monash 
 education:
   courses:
   - course: MCom
@@ -13,7 +13,7 @@ email: "george.baihan.wang@gmail.com"
 highlight_name: true
 interests:
 - Empirical Asset Pricing
-- Financial Econometrics
+- Empirical Corporate Finance
 organizations:
 - name: Monash University
   url: https://www.monash.edu/business/banking-and-finance
@@ -32,7 +32,7 @@ superuser: true
 title: George Baihan Wang
 ---
 
-`Welcome:smiley:!` I'm George and I'm currently a graduate research candidate in the Department of Banking and Finance, Monash University. I completed my Bachelor's double degrees in Chemical Engineering (Honours) and Commerce (major in Finance and minor in Econometrics) at Monash. I'm now undertaking the research-oriented Master of Commerce (MCom) program with full scholarship. My proposed research direction broadly lies in the field of Empirical Asset Pricing.
+`Welcome:smiley:!` I'm George and I'm currently a graduate research candidate in the Department of Banking and Finance, Monash University. I completed my Bachelor's double degrees in Chemical Engineering (Honours) and Commerce (major in Finance and minor in Econometrics) at Monash. I'm now undertaking the research-oriented Master of Commerce (MCom) program with full scholarship. I'm still on my way exploring my specific research interests, currently I'm interested in both Empirical Asset Pricing and Empirical Corporate Finance.
 
 Please feel free to take a *random walk* on my website as you wish! :smirk:
 
